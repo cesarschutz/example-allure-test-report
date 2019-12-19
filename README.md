@@ -1,0 +1,1 @@
+# example-allure-test-report
